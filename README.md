@@ -3,3 +3,7 @@
 # Mi primer repositorio en git hub
 
 # I like to watch series, research on computer topics, electronics. 🐶
+
+# Agregamos Mas lineas
+
+# otra linea mas
