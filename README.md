@@ -10,4 +10,4 @@
 
 # No me gusta mucho el viento zonda
 
-actualizamos las pull requets
+actualizamos las pull requets clase 7
